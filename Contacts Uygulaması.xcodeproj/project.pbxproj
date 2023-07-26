@@ -16,6 +16,7 @@
 		F46179D12A71612A0016C52B /* Contacts_Uygulamas_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46179D02A71612A0016C52B /* Contacts_Uygulamas_Tests.swift */; };
 		F46179DB2A71612A0016C52B /* Contacts_Uygulamas_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46179DA2A71612A0016C52B /* Contacts_Uygulamas_UITests.swift */; };
 		F46179DD2A71612A0016C52B /* Contacts_Uygulamas_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46179DC2A71612A0016C52B /* Contacts_Uygulamas_UITestsLaunchTests.swift */; };
+		F46179EA2A71654B0016C52B /* RehberTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46179E92A71654B0016C52B /* RehberTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F46179D62A71612A0016C52B /* Contacts UygulamasıUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Contacts UygulamasıUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F46179DA2A71612A0016C52B /* Contacts_Uygulamas_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contacts_Uygulamas_UITests.swift; sourceTree = "<group>"; };
 		F46179DC2A71612A0016C52B /* Contacts_Uygulamas_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contacts_Uygulamas_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F46179E92A71654B0016C52B /* RehberTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RehberTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				F46179B92A7161280016C52B /* AppDelegate.swift */,
 				F46179BB2A7161280016C52B /* SceneDelegate.swift */,
 				F46179BD2A7161280016C52B /* ViewController.swift */,
+				F46179E92A71654B0016C52B /* RehberTableViewCell.swift */,
 				F46179BF2A7161280016C52B /* Main.storyboard */,
 				F46179C22A7161290016C52B /* Assets.xcassets */,
 				F46179C42A7161290016C52B /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				F46179BE2A7161280016C52B /* ViewController.swift in Sources */,
 				F46179BA2A7161280016C52B /* AppDelegate.swift in Sources */,
 				F46179BC2A7161280016C52B /* SceneDelegate.swift in Sources */,
+				F46179EA2A71654B0016C52B /* RehberTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
