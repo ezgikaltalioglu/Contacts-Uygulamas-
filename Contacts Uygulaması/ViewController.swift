@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     
-    var bolumler = ["Family", "Friends","Works"]
+    var bolumler = ["Family ", "Friends","Works"]
     
     var bolumVerileri = [["Ayşe", "Fatma", "Mehmet", "Merve","Aslı"],["Elif", "Eda", "Can", "Kenan","Ezgi"], ["Şeyma","Mutlu", "Nur", "Berk", "İrem"]]
     
